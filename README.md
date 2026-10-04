@@ -11,7 +11,7 @@ Telegram‑бот для мониторинга основных ресурсо�
 *   **Статистика по дискам** — отображает общий и свободный объём места на диске в удобном формате (KB, MB, GB и т.д.) и процент занятого пространства.
   
 <img width="1157" height="1026" alt="image" src="https://github.com/user-attachments/assets/981fb1a5-0284-4fb8-a461-18e0878e9a13" />
-**Фото работы бота 1** 
+*Фото работы бота 1* 
 
 <img width="1169" height="814" alt="image" src="https://github.com/user-attachments/assets/7efec463-42da-4328-a528-f128db55a2be" />
 
